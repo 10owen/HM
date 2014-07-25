@@ -1,0 +1,13 @@
+﻿빌드 시작: 2014-07-07 오후 3:10:09
+     1>2 노드의 "D:\tags_HM-14.0-4022\tags\HM-14.0\build\vc10\TLibVideoIO_vc10.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /I"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\..\source\Lib\\" /I"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibVideoIo\\" /Fd"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibVideoIo\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibVideoIO\TVideoIOYuv.cpp
+         TVideoIOYuv.cpp
+       Lib:
+         D:\visual studio\VC\bin\Lib.exe /OUT:"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib" /NOLOGO "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibVideoIo\TVideoIOYuv.obj"
+         TLibVideoIO_vc10.vcxproj -> D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib
+     1>"D:\tags_HM-14.0-4022\tags\HM-14.0\build\vc10\TLibVideoIO_vc10.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.48

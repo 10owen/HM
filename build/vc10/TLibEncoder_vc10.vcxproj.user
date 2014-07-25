@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>-c test_cfg/original_cfg/encoder_lowdelay_main.cfg -c test_cfg/per-sequence/BQTerrace.cfg -q 37 -i inputs\classB\BQTerrace_1920x1080_60.yuv -o rrec/BQTerrace_lowdelay_noFrac_default_q37.yuv -b bbin/BQTerrace_lowdelay_noFrac_default_main_q37.bin</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>..\..\test</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

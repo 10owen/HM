@@ -1,0 +1,63 @@
+﻿빌드 시작: 2014-07-07 오후 3:10:09
+     1>3 노드의 "D:\tags_HM-14.0-4022\tags\HM-14.0\build\vc10\TLibCommon_vc10.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /I"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\..\source\Lib\\" /I"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\\" /Fd"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibCommon\ContextModel.cpp ..\..\source\Lib\TLibCommon\ContextModel3DBuffer.cpp ..\..\source\Lib\TLibCommon\SEI.cpp ..\..\source\Lib\TLibCommon\TComBitStream.cpp ..\..\source\Lib\TLibCommon\TComCABACTables.cpp ..\..\source\Lib\TLibCommon\TComDataCU.cpp ..\..\source\Lib\TLibCommon\TComInterpolationFilter.cpp ..\..\source\Lib\TLibCommon\TComLoopFilter.cpp ..\..\source\Lib\TLibCommon\TComMotionInfo.cpp ..\..\source\Lib\TLibCommon\TComPattern.cpp ..\..\source\Lib\TLibCommon\TComPic.cpp ..\..\source\Lib\TLibCommon\TComPicSym.cpp ..\..\source\Lib\TLibCommon\TComPicYuv.cpp ..\..\source\Lib\TLibCommon\TComPicYuvMD5.cpp ..\..\source\Lib\TLibCommon\TComPrediction.cpp ..\..\source\Lib\TLibCommon\TComRdCost.cpp ..\..\source\Lib\TLibCommon\TComRdCostWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComRom.cpp ..\..\source\Lib\TLibCommon\TComSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibCommon\TComSlice.cpp ..\..\source\Lib\TLibCommon\TComTrQuant.cpp ..\..\source\Lib\TLibCommon\TComWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComYuv.cpp
+         TComYuv.cpp
+         TComWeightPrediction.cpp
+         TComTrQuant.cpp
+         TComSlice.cpp
+         TComSampleAdaptiveOffset.cpp
+         TComRom.cpp
+         TComRdCostWeightPrediction.cpp
+         TComRdCost.cpp
+         TComPrediction.cpp
+         TComPicYuvMD5.cpp
+         TComPicYuv.cpp
+         TComPicSym.cpp
+         TComPic.cpp
+         TComPattern.cpp
+         TComMotionInfo.cpp
+         TComLoopFilter.cpp
+         TComInterpolationFilter.cpp
+         TComDataCU.cpp
+         TComCABACTables.cpp
+         TComBitStream.cpp
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         SEI.cpp
+         ContextModel3DBuffer.cpp
+         ContextModel.cpp
+         코드를 생성하고 있습니다...
+         D:\visual studio\VC\bin\CL.exe /c /I"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\..\source\Lib\\" /I"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\\" /Fd"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\Lib\libmd5\libmd5.c
+         libmd5.c
+       Lib:
+         D:\visual studio\VC\bin\Lib.exe /OUT:"D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lib" /NOLOGO "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\ContextModel.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\ContextModel3DBuffer.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\libmd5.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\SEI.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComBitStream.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComCABACTables.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComDataCU.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComInterpolationFilter.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComLoopFilter.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComMotionInfo.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComPattern.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComPic.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComPicSym.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComPicYuv.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComPicYuvMD5.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComPrediction.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComRdCost.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComRdCostWeightPrediction.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComRom.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComSampleAdaptiveOffset.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComSlice.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComTrQuant.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComWeightPrediction.obj"
+         "D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TComYuv.obj"
+         TLibCommon_vc10.vcxproj -> D:\tags_HM-14.0-4022\tags\HM-14.0\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lib
+     1>"D:\tags_HM-14.0-4022\tags\HM-14.0\build\vc10\TLibCommon_vc10.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:08.40

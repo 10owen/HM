@@ -1,0 +1,50 @@
+﻿빌드 시작: 2014-07-23 오후 8:44:02
+     1>4 노드의 "D:\HM\HM-14.0\build\vc10\TLibEncoder_vc10.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         D:\visual studio\VC\bin\x86_amd64\CL.exe /c /I"D:\HM\HM-14.0\build\\..\source\Lib\\" /I"D:\HM\HM-14.0\build\\..\compat\msvc" /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\\" /Fd"D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\vc110.pdb" /Gd /TP /errorReport:prompt ..\..\source\Lib\TLibEncoder\NALwrite.cpp ..\..\source\Lib\TLibEncoder\SEIwrite.cpp ..\..\source\Lib\TLibEncoder\SyntaxElementWriter.cpp ..\..\source\Lib\TLibEncoder\TEncAnalyze.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABAC.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABACCounter.cpp ..\..\source\Lib\TLibEncoder\TEncCavlc.cpp ..\..\source\Lib\TLibEncoder\TEncCu.cpp ..\..\source\Lib\TLibEncoder\TEncEntropy.cpp ..\..\source\Lib\TLibEncoder\TEncGOP.cpp ..\..\source\Lib\TLibEncoder\TEncPic.cpp ..\..\source\Lib\TLibEncoder\TEncPreanalyzer.cpp ..\..\source\Lib\TLibEncoder\TEncRateCtrl.cpp ..\..\source\Lib\TLibEncoder\TEncSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibEncoder\TEncSbac.cpp ..\..\source\Lib\TLibEncoder\TEncSearch.cpp ..\..\source\Lib\TLibEncoder\TEncSlice.cpp ..\..\source\Lib\TLibEncoder\TEncTop.cpp ..\..\source\Lib\TLibEncoder\WeightPredAnalysis.cpp
+         WeightPredAnalysis.cpp
+         TEncTop.cpp
+         TEncSlice.cpp
+         TEncSearch.cpp
+         TEncSbac.cpp
+         TEncSampleAdaptiveOffset.cpp
+         TEncRateCtrl.cpp
+         TEncPreanalyzer.cpp
+         TEncPic.cpp
+         TEncGOP.cpp
+         TEncEntropy.cpp
+         TEncCu.cpp
+         TEncCavlc.cpp
+         TEncBinCoderCABACCounter.cpp
+         TEncBinCoderCABAC.cpp
+         TEncAnalyze.cpp
+         SyntaxElementWriter.cpp
+         SEIwrite.cpp
+         NALwrite.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         D:\visual studio\VC\bin\x86_amd64\Lib.exe /OUT:"D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TLibEncoder.lib" /NOLOGO /MACHINE:X64 "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\NALwrite.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\SEIwrite.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\SyntaxElementWriter.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncAnalyze.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncBinCoderCABAC.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncBinCoderCABACCounter.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncCavlc.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncCu.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncEntropy.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncGOP.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncPic.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncPreanalyzer.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncRateCtrl.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncSampleAdaptiveOffset.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncSbac.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncSearch.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncSlice.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TEncTop.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\WeightPredAnalysis.obj"
+         TLibEncoder_vc10.vcxproj -> D:\HM\HM-14.0\build\\vc10\x64\Debug\TLibEncoder\TLibEncoder.lib
+     1>"D:\HM\HM-14.0\build\vc10\TLibEncoder_vc10.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:09.00

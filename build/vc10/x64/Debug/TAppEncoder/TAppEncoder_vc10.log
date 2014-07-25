@@ -1,0 +1,22 @@
+﻿빌드 시작: 2014-07-23 오후 8:44:11
+     1>3 노드의 "D:\HM\HM-14.0\build\vc10\TAppEncoder_vc10.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         D:\visual studio\VC\bin\x86_amd64\CL.exe /c /I"D:\HM\HM-14.0\build\\..\source\Lib\\" /I"D:\HM\HM-14.0\build\\..\compat\msvc" /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\HM\HM-14.0\build\\vc10\x64\Debug\TAppEncoder\\" /Fd"D:\HM\HM-14.0\build\\vc10\x64\Debug\TAppEncoder\vc110.pdb" /Gd /TP /errorReport:prompt ..\..\source\App\TAppEncoder\encmain.cpp ..\..\source\App\TAppEncoder\TAppEncCfg.cpp ..\..\source\App\TAppEncoder\TAppEncTop.cpp
+         TAppEncTop.cpp
+         TAppEncCfg.cpp
+         encmain.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         D:\visual studio\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\HM\HM-14.0\build\\..\bin\vc10\x64\Debug\TAppEncoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\HM\HM-14.0\build\\..\bin\vc10\x64\Debug\TAppEncoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\HM\HM-14.0\build\\..\bin\vc10\x64\Debug\TAppEncoder.lib" /MACHINE:X64 "D:\HM\HM-14.0\build\\vc10\x64\Debug\TAppEncoder\encmain.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TAppEncoder\TAppEncCfg.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Debug\TAppEncoder\TAppEncTop.obj"
+         "D:\HM\HM-14.0\build\vc10\x64\Debug\TAppCommon\TAppCommon.lib"
+         "D:\HM\HM-14.0\build\vc10\x64\Debug\TLibCommon\TLibCommon.lib"
+         "D:\HM\HM-14.0\build\vc10\x64\Debug\TLibEncoder\TLibEncoder.lib"
+         "D:\HM\HM-14.0\build\vc10\x64\Debug\TLibVideoIo\TLibVideoIO.lib"
+         TAppEncoder_vc10.vcxproj -> D:\HM\HM-14.0\build\\..\bin\vc10\x64\Debug\TAppEncoder.exe
+     1>"D:\HM\HM-14.0\build\vc10\TAppEncoder_vc10.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.69

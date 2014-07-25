@@ -1,0 +1,18 @@
+﻿빌드 시작: 2014-07-23 오후 8:41:38
+     1>2 노드의 "D:\HM\HM-14.0\build\vc10\TAppEncoder_vc10.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         D:\visual studio\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\HM\HM-14.0\build\\..\bin\vc10\x64\Release\TAppEncoder.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\HM\HM-14.0\build\\..\bin\vc10\x64\Release\TAppEncoder.pdb" /SUBSYSTEM:CONSOLE /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\HM\HM-14.0\build\\..\bin\vc10\x64\Release\TAppEncoder.lib" /MACHINE:X64 "D:\HM\HM-14.0\build\\vc10\x64\Release\TAppEncoder\encmain.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Release\TAppEncoder\TAppEncCfg.obj"
+         "D:\HM\HM-14.0\build\\vc10\x64\Release\TAppEncoder\TAppEncTop.obj"
+         "D:\HM\HM-14.0\build\vc10\x64\Release\TAppCommon\TAppCommon.lib"
+         "D:\HM\HM-14.0\build\vc10\x64\Release\TLibCommon\TLibCommon.lib"
+         "D:\HM\HM-14.0\build\vc10\x64\Release\TLibEncoder\TLibEncoder.lib"
+         "D:\HM\HM-14.0\build\vc10\x64\Release\TLibVideoIo\TLibVideoIO.lib"
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         TAppEncoder_vc10.vcxproj -> D:\HM\HM-14.0\build\\..\bin\vc10\x64\Release\TAppEncoder.exe
+     1>"D:\HM\HM-14.0\build\vc10\TAppEncoder_vc10.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:06.63
